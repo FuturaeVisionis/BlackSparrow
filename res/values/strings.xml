@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BlackSparrow</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="textView1">Name:</string>
+    <string name="textView2">Surname:</string>
+    <string name="textView3">Fullname:</string>
+    <string name="button1">Save</string>
+    <string name="button2">Show!</string>
+    <string name="textView4">Hello Marsian</string>
+    <string name="button3">Cookie</string>
+    <string name="button4">Jar</string>
+    <string name="button5">Return</string>
+   
+</resources>
