@@ -12,6 +12,7 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
+// this is MyActivity
 public class MyActivity extends Activity {
 	
 	EditText name; 
